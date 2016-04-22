@@ -1,0 +1,17 @@
+name: MPFac
+author: Tethered_, HostingItAll.com, Autonomousperson
+description: Advanced Factions Plugin based on Fac Pro 
+version: 2.0.0
+main: MPFac\MPFac
+api: [2.0.0]
+commands:
+  f:
+    description: use /f help for all parameters
+    permission: f.command
+permissions:
+  f.player:
+    default: true
+    description: "Allow use of all faction commands"
+  fac.admin:
+    default: op
+    description: "Allows op users to override factions"
