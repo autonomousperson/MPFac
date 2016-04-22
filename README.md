@@ -1,10 +1,16 @@
+##This plugin is based on FactionsPro! Thank you HostingItall and Tethered
+
 ##Features
+#Current
 * Easily create, delete, and manage factions
 * Players in the same faction don't inflict PVP damage on each other
 * Kick annoying players
 * Invite anyone you want (they can accept or deny the invite)
 * Claim plots and create a dominating base
 * Three ranks: Member, Officer and Leader
+
+#Planned
+* https://www.massivecraft.com/factions :)
 
 ##Commands
 * /f about - view plugin information
